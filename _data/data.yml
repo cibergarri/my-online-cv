@@ -7,184 +7,201 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Javier Garrido
+    tagline: Full Stack Javascript Engineer
+    avatar: javier.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    github: sharu725
+    email: javiergarridoiglesias@gmail.com
+    phone: +34 651 757 083
+    website: https://javiergarrido.dev/
+    linkedin: javiergarridoiglesias
+    github: cibergarri
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@cibergarri'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
     languages:
-      - idiom: English
+      - idiom: Spanish
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
+      - idiom: English
         level: Professional
 
     interests:
-      - item: Climbing
+      - item: Travel
         link:
 
-      - item: Snowboarding
+      - item: Board games
         link:
 
-      - item: Cooking
+      - item: History
         link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Experienced Web developer involved in all stages of development with working experience
+      since 2012 in a wide range of tehcnologies, proficient in Javascript, specially NodeJs in the Backend.
+      Always willing to take challenges, Career development in different
+      environments such as big and small corporations, IT consultants and start-ups.
+      Good skills on problem solving and communication, able to effectively self-manage during
+      independent projects, as well as collaborate in a team setting.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+    - degree: Bachelor of Information Technology 
+      university: University of Burgos
+      # time: 2011 - 2012
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
+    # - degree: BSc in Applied Mathematics
+    #   university: Bristol University
+    #   time: 2007 - 2011
+    #   details: |
+    #     Describe your study here lorem ipsum dolor sit amet, consectetuer
+    #     adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+    #     sociis natoque penatibus et magnis dis parturient montes, nascetur
+    #     ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+    #     pretium quis, sem.
+    #       - Bullet point
+    #       - Bullet point
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
-      details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
     - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+      time: 2019 - Present
+      company: Bag On Board (Bob.io), Madrid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        Full Stack Javascript development involved in every stage of diferent projects,
+        from helping on the design of the architecture/new technologies to taking
+        task for improving Continuous Integration/Delivery task with Jenkins.
+          - Backend NodeJs development: Express, MongoDb, Sinon, Mocha...
+          - API NodeJS development: NodeJs, OpenApi, AWS (Apigateway, Lambda...), Jest...
+          - Frontend ReactJs development: Redux, Styled components, Hooks, Jest, Enzyme...
+          - Mobile App development: Expo, React Native, Styled components, Jest, Enzyme...
+          - Microservice Architecture: Kafka, Avro, Postgres, Cloud Events,... 
+    - role: Javascript Senior Developer
+      time: 2017 - 2019
+      company: Cognizant, Valladolid
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Javascript developer with additional task such as mentoring and being Scrum Master and
+        Architect in internal projects.
+        Projects:
+          - Project within an international team for an important multinational tobacco Company:
+          Background Scheduler Task. Heroku, Git, NodeJs (Sequelize, Express, Mocha, Chai, Sinon…), TypeScript, PostreSQL…
+          - BackEnd Lead Developer within a Project for developing a Web App for a lead Renewable energy company in the Nordics.
+          Heroku including CI in Travis (ES6, NodeJS, ReactJS Mocha - Sinon - MongoDb - Github...).
+          - Additional tasks of mentoring and supervising as well as Scrum Master/ Architect role in an internal project of the company.
+    - role: Web Developer
+      time: 2017
+      company: Solutel, Burgos
+      details: |
+        Development of an hybrid app for controlling thermostats via Bluetooth communication
+         - Mobile App Hybrid development with Cordova (HTML, CSS, Javascript, Handlebars, bluebird...) 
+         - BackEnd App using NodeJs and Mongodb.
+    - role: Senior Software Development Engineer
+      time: 2014-2017
+      company: Thomson Reuters Aranzadi, Burgos
+      details: |
+        Web development of a Saas application for legal purposes (lawyers, court employees,..)
+          - Frontend and Backend Software development. Technologies: MVC, C#, VB .Net, NodeJS Razor, HTML, CSS,JavaScript, JQuery, AJAX, AngularJS, Entity Framework, SQL, Oracle...
+          - Integration WebServices development (REST and API). WebApi, Oauth, ApiGee, Integrations with company and third party services (email, SAP...).
+          - Part of international team (China, Brazil) for the migration of an application.
+    - role: Web Developer
+      time: 2012-2014
+      company: Marsol Viajes, Burgos
+      details: |
+        Web development of internal and external tools for managing Travel bookings.
+          - Changes and maintenance of the Internal Web Software: ASP, SQL Server.
+          - Integration Web Services development: VB .Net, XML, SOAP.
+          - MVC Web Development: VB .Net MVC, Razor, Entity Framework, JQuery.
+          - Application and website users Helpdesk.
+    - role: Helpdesk and development
+      time: 2006-2012
+      company: SPIA SL, Burgos
+      details: |
+        IT technician, In-site and remote HelpDesk.
+          - Assembly, fix and maintenance of hardware. Computers, printers, network equipment…
+          - Server installation and management.
+          - VPN connections installation and maintenance.
+          - Design and creation of websites. IIS and Mail server maintenance.
+          - Installation and setting up of telephone switchboards with VoIP technology.
+          - Software development with DB and other.NET development.
+    - role: Other less relevant roles
+      time: 2000-2006
+      company: Burgos
+      details: |
+          - 2006: Substitution of old equipment and setting up of the new ones in the offices of Junta de Castilla y León both in Burgos and Soria provinces.
+          - 2003-2005: Collaboration grant with the Employment unit of Universidad de Burgos
+          - 2000-2003: Cybercafé “CIBEROCIO”. Person in charge – Customer Service
+
 projects:
     title: Projects
     intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+      Some non-working and side projects I have been involved
     assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+      - title: Coconut
+        link: "https://github.com/cibergarri/morcilla-Back"
+        tagline: "MorcillaConf '20 online hackhaton first awarded Prize. Web App for helping remote working teams. Allows to share information across people working on distributed teams and to keep trace of the hours dedicated for each project the team is working on."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+      - title: INTERFAZ EN PANTALLA (ON-SCREEN INTERFACE)
+        link: "http://www.spia.es/iep/"
+        tagline: "End of Bachelor Awarded Degree Project. On-screen Keyboard and mouse interface fully customizable and with sweeping technologies for easing disabled people the use of any program on their computer. Currently being used in some primary schools in Burgos."
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: ESTRENOSBOT
+        link: "https://web.telegram.org/#/im?p=@EstrenosBot"
+        tagline: "Bot for telegram, project-based learning for NodeJs first steps."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name: Javascript
         level: 98%
 
-      - name: Javascript & jQuery
-        level: 98%
+      - name: NodeJS
+        level: 98%     
 
-      - name: Angular
-        level: 98%
+      - name: ReactJS
+        level: 60%
 
       - name: HTML5 & CSS
         level: 95%
 
-      - name: Ruby on Rails
-        level: 85%
+      - name: Github
+        level: 95%
 
       - name: Sketch & Photoshop
         level: 60%
 
 footer: >
-    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
+    <a href="https://javiergarrido.dev/" target="_blank" rel="nofollow">Javier Garrido</a>

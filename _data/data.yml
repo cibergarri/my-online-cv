@@ -151,11 +151,11 @@ projects:
         link: "https://github.com/cibergarri/morcilla-Back"
         tagline: "MorcillaConf '20 online hackhaton first awarded Prize. Web App for helping remote working teams. Allows to share information across people working on distributed teams and to keep trace of the hours dedicated for each project the team is working on."
 
-      - title: INTERFAZ EN PANTALLA (ON-SCREEN INTERFACE)
+      - title: Interfaz en Pantalla (On-Screen Interface)
         link: "http://www.spia.es/iep/"
         tagline: "End of Bachelor Awarded Degree Project. On-screen Keyboard and mouse interface fully customizable and with sweeping technologies for easing disabled people the use of any program on their computer. Currently being used in some primary schools in Burgos."
 
-      - title: ESTRENOSBOT
+      - title: EstrenosBot
         link: "https://web.telegram.org/#/im?p=@EstrenosBot"
         tagline: "Bot for telegram, project-based learning for NodeJs first steps."
 
@@ -200,8 +200,8 @@ skills:
       - name: Github
         level: 95%
 
-      - name: Sketch & Photoshop
-        level: 60%
+      - name: ASP .NET
+        level: 50%
 
 footer: >
     <a href="https://javiergarrido.dev/" target="_blank" rel="nofollow">Javier Garrido</a>

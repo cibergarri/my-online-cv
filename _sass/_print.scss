@@ -38,3 +38,8 @@
    //  }
 
 }
+@media (min-width: 768px), print  {
+   .main-wrapper {	
+      padding: 285px;	
+  }
+}

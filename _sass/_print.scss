@@ -40,7 +40,27 @@
 }
 
 @media print and (min-width: 768px)  {
+   
+   body{
+      padding: 0;
+   }
+
+   .sidebar-wrapper {
+      position: static;
+      width: inherit;
+   }
+
    .main-wrapper {	
       padding-right: 285px;
   }
+
+   .main-wrapper .time {
+      position: static;
+      display: block;
+      margin-top: 5px;
+   }
+
+   .main-wrapper .upper-row {
+      margin-bottom: 0;
+   }
 }

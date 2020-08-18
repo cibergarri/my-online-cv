@@ -192,9 +192,9 @@ th {
   *,
   *:before,
   *:after {
-    color: #000 !important;
+    /* color: #000 !important; */
     text-shadow: none !important;
-    background: transparent !important;
+    /* background: transparent !important; */
     -webkit-box-shadow: none !important;
             box-shadow: none !important;
   }
@@ -202,9 +202,9 @@ th {
   a:visited {
     text-decoration: underline;
   }
-  a[href]:after {
+  /* a[href]:after {
     content: " (" attr(href) ")";
-  }
+  } */
   abbr[title]:after {
     content: " (" attr(title) ")";
   }
@@ -225,9 +225,9 @@ th {
   img {
     page-break-inside: avoid;
   }
-  img {
+  /* img {
     max-width: 100% !important;
-  }
+  } */
   p,
   h2,
   h3 {
